@@ -1,57 +1,4 @@
 
-# MERN Stack Capstone Project
-
-This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
-
-## Assignment Overview
-
-You will:
-1. Plan and design a full-stack MERN application
-2. Develop a robust backend with MongoDB, Express.js, and Node.js
-3. Create an interactive frontend with React.js
-4. Implement testing across the entire application
-5. Deploy the application to production
-
-## Getting Started
-
-1. Accept the GitHub Classroom assignment
-2. Clone the repository to your local machine
-3. Follow the instructions in the `Week8-Assignment.md` file
-4. Plan, develop, and deploy your capstone project
-
-## Files Included
-
-- `Week8-Assignment.md`: Detailed assignment instructions
-
-## Requirements
-
-- Node.js (v18 or higher)
-- MongoDB (local installation or Atlas account)
-- npm or yarn
-- Git and GitHub account
-- Accounts on deployment platforms (Render/Vercel/Netlify/etc.)
-
-## Project Ideas
-
-The `Week8-Assignment.md` file includes several project ideas, but you're encouraged to develop your own idea that demonstrates your skills and interests.
-
-## Submission
-
-Your project will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Commit and push your code regularly
-2. Include comprehensive documentation
-3. Deploy your application and add the live URL to your README.md
-4. Create a video demonstration and include the link in your README.md
-
-## Resources
-
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [Express.js Documentation](https://expressjs.com/)
-- [React Documentation](https://react.dev/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom) 
-=======
 # 🏠 RentRadar - Modern Property Rental Platform
 
 > A comprehensive property rental platform connecting landlords and tenants with advanced features like real-time messaging, property management, and admin controls.
@@ -80,56 +27,6 @@ Your project will be automatically submitted when you push to your GitHub Classr
 - 🚨 **Report Handling** - Review and resolve user-submitted reports
 - 📊 **Platform Analytics** - Monitor platform usage and growth metrics
 - 🔧 **System Controls** - Ban/unban users and moderate content
-
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ installed
-- MongoDB database (local or cloud)
-- npm or pnpm package manager
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/RentRadar-Project.git
-   cd RentRadar-Project
-   ```
-
-2. **Install dependencies**
-   ```bash
-   # Install server dependencies
-   cd server
-   npm install
-
-   # Install client dependencies
-   cd ../client
-   npm install
-
-   # Environment
-   NODE_ENV=development
-   PORT=5000
-   CLIENT_URL=http://localhost:5173
-   ```
-
-   Create `.env` file in the client directory:
-   ```env
-   VITE_API_BASE_URL=http://localhost:5000/api
-   ```
-
-3. **Start the application**
-   ```bash
-   # Start server (from server directory)
-   npm run dev
-
-   # Start client (from client directory)
-   npm run dev
-   ```
-
-4. **Access the application**
-   - Frontend: http://localhost:5173
-   - Backend API: http://localhost:5000
 
 ## 📁 Project Structure
 
@@ -185,7 +82,7 @@ RentRadar-Project/
 
 ## 🚀 Deployment
 
-
+ live website url: rentradar-flame.vercel.app
 
 ### Build Commands
 
@@ -223,13 +120,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/yourusername/RentRadar-Project/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/alfredndivo/RentRadar_Project.git/issues) page to report bugs or request features.
 
 ## 📞 Support
 
 For support and questions:
 - Email: support@rentradar.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/RentRadar-Project/issues)
+- GitHub Issues: [Create an issue](https://github.com/alfredndivo/RentRadar_Project.git/issues)
 
----
->>>>>>> public/main
